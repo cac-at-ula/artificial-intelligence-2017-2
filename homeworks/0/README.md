@@ -1,16 +1,18 @@
-# Homework #1
+# Homework #0
 
 - Due: Wednesday 6, September, 2017
 
 ## Description
 
-The first homework consist in reading a maze description from a file, and convert to a numpy representation.
+The first homework consist in reading a maze description from a file, and convert it to a numpy representation.
 
 For example, is the file contains
 
+```
 1111
 1001
 1111
+```
 
 Then the resulting numpy array is
 
@@ -44,8 +46,8 @@ def maze_to_numpy(self, filename):
 
 ## Tips
 
-1. Check the methods the **open** method
-2. Remember, that files contains text, and you need numbers
+1. Check the method **open**
+2. Remember that files contains text, and you need numbers
 3. Test the code.
 
 ```
