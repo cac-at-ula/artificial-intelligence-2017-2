@@ -1,6 +1,6 @@
 # Homework #0
 
-- Due: Wednesday 6, September, 2017
+- Due: Tuesday 5, September, 2017
 
 ## Description
 
