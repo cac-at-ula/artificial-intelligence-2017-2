@@ -8,7 +8,6 @@ This homework consists in train and evaluate, three different computer vision da
 
 - (MNIST)[http://yann.lecun.com/exdb/mnist/]
 - (CIFAR10)[https://www.cs.toronto.edu/~kriz/cifar.html]
-- (SVHN)[http://ufldl.stanford.edu/housenumbers/]
 
 ## Instructions
 
